@@ -1,4 +1,4 @@
-<h1 align = "center">UEDX24320028ESP32-3.5inch-Touch-Display</h1>
+<h1 align = "center">UEDX24320028ESP32-3.5inch-240_320-Touch-Display</h1>
 
 <p align="center" width="80%">
     <img src="image/2.4.jpg" alt="">
