@@ -41,7 +41,7 @@
 
 ## Describe
 
-UEDX24320028ESP32-2.4inch-Touch-Display is a development board with square 2.4inch 240*320 resolution display, based on ESP32S3, suitable for the development of microcontroller projects with display.
+UEDX24320028ESP32-3.5inch-240_320-Touch-Display is a development board with square 3.5inch 240*320 resolution display, based on ESP32S3, suitable for the development of microcontroller projects with display.
 
 
 ## Module
