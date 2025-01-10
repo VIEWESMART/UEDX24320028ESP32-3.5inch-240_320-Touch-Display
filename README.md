@@ -1,4 +1,4 @@
-<h1 align = "center">UEDX24320028ESP32-2.4inch-Touch-Display</h1>
+<h1 align = "center">UEDX24320028ESP32-3.5inch-Touch-Display</h1>
 
 <p align="center" width="80%">
     <img src="image/2.4.jpg" alt="">
@@ -21,7 +21,7 @@
 ## Version iteration:
 |   Development board Version   |  Screen size   |   Resolution  | Update date        |Update description|
 | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |:-------------------------------: |
-| UEDX24320028E-WB-A V1.1 | 2.4ich |  240*320  |2024-12-23      | Original version   |
+| UEDX24320028E-WB-A V1.1 | 3.5inch |  240*320  |2024-12-23      | Original version   |
 
 ## PurchaseLink
 
@@ -36,7 +36,7 @@
 - [PinOverview](#pinoverview)
 - [FAQ](#faq)
 - [Schematic](#Schematic)
-- [Information](#information)
+- [datasheet](#datasheet)
 - [DependentLibraries](#dependentlibraries)
 
 ## Describe
@@ -55,7 +55,7 @@ UEDX24320028ESP32-2.4inch-Touch-Display is a development board with square 2.4in
 
 ### 2. Screen
 
-* Size: 2.4-inch IPS screen
+* Size: 3.5-inch IPS screen
 * Resolution: 240x320px
 * Screen type: IPS
 * Driver chip: GC9307
@@ -219,7 +219,7 @@ UEDX24320028ESP32-2.4inch-Touch-Display is a development board with square 2.4in
     <img src="Schematic/UEDX24320028E-WB-A%20V1.1%20sch.png" alt="example">
 </p>
 
-## Information
+## datasheet
 [products specification](information/UEDX24320024E-WB-A%20V1.0%20SPEC.pdf)
 
 [Display Datasheet](information/UE024QV-RB40-A038A.pdf)
