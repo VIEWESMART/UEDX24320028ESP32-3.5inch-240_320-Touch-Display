@@ -220,9 +220,9 @@ UEDX24320028ESP32-2.4inch-Touch-Display is a development board with square 2.4in
 </p>
 
 ## datasheet
-[products specification](information/UEDX24320024E-WB-A%20V1.0%20SPEC.pdf)
+[products specification](information/UEDX24320035E-WB-A%20V1.2%20SPEC.pdf)
 
-[Display Datasheet](information/UE024QV-RB40-A038A.pdf)
+[Display Datasheet](information/UE035QV-RB40-A120B.pdf)
 
 [Touch IC](information/DS_CHSC6540_V1.0%20Datasheet.pdf)
 
