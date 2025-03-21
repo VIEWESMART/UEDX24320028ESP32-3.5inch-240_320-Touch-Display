@@ -201,7 +201,7 @@
 </p>
 
 ## Information
-[products specification](information/UEDX24320024E-WB-A%20V1.0%20SPEC.pdf)
+[products specification](information/UEDX24320035E-WB-A%20V1.2%20SPEC.pdf)
 
 [Display Datasheet](information/UE035QV-RB40-A120B.pdf)
 
