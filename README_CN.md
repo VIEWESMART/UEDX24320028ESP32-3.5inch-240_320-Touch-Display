@@ -37,7 +37,7 @@
 
 | 产品                     | 主控芯片     | 闪存   | PSRAM   | 购买链接                   |
 | :------------------------: | :-----------: |:-------: | :---------: | :------------------: |
-| UEDX80480070E-WB-A V1.1   | ESP32S3R8 | 16MB   | 8M（八线SPI） | [VIEWE商城](https://viewedisplay.com/product/esp32-3-5-inch-240x320-mcu-ips-tft-display-touch-screen-arduino-lvgl-wifi-ble-uart-smart-module/)  |
+| UEDX24320035E-WB-A   | ESP32S3R8 | 16MB   | 8M（八线SPI） | [VIEWE商城](https://viewedisplay.com/product/esp32-3-5-inch-240x320-mcu-ips-tft-display-touch-screen-arduino-lvgl-wifi-ble-uart-smart-module/)  |
 
 ## 硬件概述
 
@@ -183,9 +183,9 @@
 </div>
 
 ## 技术资料
-[产品规格书](information/UEDX24320024E-WB-A%20V1.0%20SPEC.pdf)
+[产品规格书](information/UEDX24320035E-WB-A%20V1.2%20SPEC.pdf)
 
-[显示屏数据手册](information/UE028QV-RB40-A058A.pdf)
+[显示屏数据手册](information/UE035QV-RB40-A120B.pdf)
 
 [触摸IC手册](information/DS_CHSC6540_V1.0%20Datasheet.pdf)
 
